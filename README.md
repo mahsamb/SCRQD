@@ -25,7 +25,8 @@ The dataset includes several vital subtasks, each contributing to a thorough und
 3. **Comparative Preference Classification**: Classifying the type of preference expressed in the questions.
 
 ## Usage Example and Guide
-For practical applications and detailed examples of utilizing the SCRQD dataset, please refer to the Example Usage Notebook included in this repository.
+For practical applications and detailed examples of utilizing the SCRQD dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository.
+
 
 ## Sample Data from SCRQD
 Here is a glimpse into the structure and content of the SCRQD dataset:
