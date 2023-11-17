@@ -43,11 +43,11 @@ Here is a glimpse into the structure and content of the SCRQD dataset:
 
 | ID | Example | Subject Entity | Object Entity | Compared Aspect | Constraint | Preference |
 | -- | ------- | -------------- | ------------- | --------------- | ---------- | ---------- |
-| 38 | Which camera offers better selfies and photos in all conditions , Samsung Galaxy Note 4 or Samsung NX Mini ? | Samsung Galaxy Note 4, Samsung NX Mini | camera  | All  | better selfies and photos in all conditions | XorB |
 | 6 | I want a smartphone . I like that the Samsung Galaxy A 11 has a large screen , but I don t know if it will be as reliable as iPhone 8 ? | Samsung Galaxy A11 | reliable  | iPhone 8  | None | E |
+| 38 | Which camera offers better selfies and photos in all conditions , Samsung Galaxy Note 4 or Samsung NX Mini ? | Samsung Galaxy Note 4, Samsung NX Mini | camera  | All  | better selfies and photos in all conditions | XorB |
+| 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | camera | All | for 600 dollar | SB |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | battery life | All | for 600 dollar | SB |
-| 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
 | 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
 
 ## Benchmarking SCRQD
