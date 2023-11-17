@@ -1,5 +1,3 @@
-# SCRQD
-SCRQD: Subjective Comparative Relation Quintuple Dataset
 # Exploration of the Subjective Comparative Relation Quintuples Dataset (SCRQD)
 
 ## Introduction to the SCRQD Dataset
