@@ -20,9 +20,9 @@ These elements collectively offer a comprehensive perspective on the nature of c
 ## Diving Deeper: Exploring the Subtasks in SCRQD
 The dataset includes several vital subtasks, each contributing to a thorough understanding of the questions:
 
-1. **Element Extraction**: Identifying key components of the questions, such as entities, aspects, and constraints.
-2. **Entity Role Identification**: Categorizing the roles of entities as subjects or objects in the comparative narrative.
-3. **Comparative Preference Classification**: Classifying the type of preference expressed in the questions.
+1. **Element Extraction (EE)**: Identifying key components of the questions, such as entities, aspects, and constraints.
+2. **Entity Role Identification (ERI)**: Categorizing the roles of entities as subjects or objects in the comparative narrative.
+3. **Comparative Preference Classification (CPC)**: Classifying the type of preference expressed in the questions.
 
 ## Usage Example and Guide
 For practical applications and detailed examples of utilizing the SCRQD dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository.
