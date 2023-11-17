@@ -41,9 +41,13 @@ For practical applications and detailed examples of utilizing the SCRQD dataset,
 ## Sample Data from SCRQD
 Here is a glimpse into the structure and content of the SCRQD dataset:
 
-| Example | Subject Entity | Object Entity | Compared Aspect | Constraint | Preference |
-| ------- | -------------- | ------------- | --------------- | ---------- | ---------- |
-| ...     | ...            | ...           | ...             | ...        | ...        |
+| ID | Example | Subject Entity | Object Entity | Compared Aspect | Constraint | Preference |
+| -- | ------- | -------------- | ------------- | --------------- | ---------- | ---------- |
+| 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | camera | All | for 600 dollar | SB |
+| 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | battery life | All | for 600 dollar | SB |
+| 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
+
+
 
 
 | Example                                                         | FSQC | Comparison-Form | Subjectivity | Subjective-Type |ComparisonForm-Subjectivity|
