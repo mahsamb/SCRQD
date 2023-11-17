@@ -44,15 +44,13 @@ Here is a glimpse into the structure and content of the SCRQD dataset:
 | ID | Example | Subject Entity | Object Entity | Compared Aspect | Constraint | Preference |
 | -- | ------- | -------------- | ------------- | --------------- | ---------- | ---------- |
 | 6 | I want a smartphone . I like that the Samsung Galaxy A 11 has a large screen , but I don t know if it will be as reliable as iPhone 8 ? | Samsung Galaxy A11 | reliable  | iPhone 8  | None | E |
-| 38 | Which camera offers better selfies and photos in all conditions , Samsung Galaxy Note 4 or Samsung NX Mini ? | Samsung Galaxy Note 4, Samsung NX Mini | camera  | All  | better selfies and photos in all conditions | XorB |
 | 99 | Are the camera functions on the IQOO 7 worse than Oneplus 8 T ? | IQOO 7 | camera functions  | OnePlus 8T | None | W |
 | 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
 | 212 | Why do a lot of K pop idols prefer an iPhone over Samsung ? | iPhone | All | Samsung | a lot of K pop idols | B |
 | 219 | What are the major disadvantages of the Samsung note 20 over Samsung note 21 ? | Samsung note 20 | All | Samsung note 21 | major disadvantages | SW |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | camera | All | for 600 dollar | SB |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | battery life | All | for 600 dollar | SB |
-| 0000 | aaaaaaaaaaaaaaaaaaaa | bbbbb | fffff | ccccc   | ddddd | eeeee |
-| 1111 | aaaaaaaaaaaaaaaaaaaa | bbbbb | fffff | ccccc   | ddddd | eeeee |
+
 
 ## Benchmarking SCRQD
 SCRQD has been benchmarked against other prominent datasets in the field, demonstrating its superiority in capturing the nuances of subjective comparative questions with its unique structure and comprehensive annotations.
