@@ -48,16 +48,6 @@ Here is a glimpse into the structure and content of the SCRQD dataset:
 | 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
 
 
-
-
-| Example                                                         | FSQC | Comparison-Form | Subjectivity | Subjective-Type |ComparisonForm-Subjectivity|
-|-----------------------------------------------------------------|------|-----------------|--------------|-----------------|---------------------------|
-| Which smartphone would you suggest, the Samsung Galaxy Note 10 Plus or the Huawei P30?	| TSS  | Single          | Subjective   | Target          | Single Subjective  |
-| Which one has a more attractive interface, the Samsung Galaxy S21 + or the iPhone 12 Pro Max?	| TCS  | Comparative     | Subjective   | Target          | Comparative Subjective  |
-| How well does the Galaxy Z Flip 2 handle gaming and graphic-intensive apps?| ASS  | Single          | Subjective   | Attitude        | Single Subjective |
-| How does the camera sharpness compare between Honor 10X and Realme 8 Pro+?	| ACS  | Comparative     | Subjective   | Attitude        | Comparative Subjective   |
-| Why might users who seek a smartphone that balances performance and affordability consider the Micromax Selfie 2X?	 | RSS  | Single          | Subjective   | Reason          | Single Subjective         |
-
 ## Benchmarking SCRQD
 SCRQD has been benchmarked against other prominent datasets in the field, demonstrating its superiority in capturing the nuances of subjective comparative questions with its unique structure and comprehensive annotations.
 
