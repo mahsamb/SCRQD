@@ -1,7 +1,7 @@
 # Exploration of the Subjective Comparative Relation Quintuples Dataset (SCRQD)
 
 ## Introduction to the SCRQD Dataset
-The Subjective Comparative Relation Quintuples Dataset (SCRQD) is an innovative resource designed for the nuanced analysis of subjective comparative questions in the smartphone domain. SCRQD stands out for its detailed categorization and unique approach to understanding the subtleties of comparative queries, thereby enhancing the capabilities of Automatic Subjective Question Answering (ASQA) systems.
+The Subjective Comparative Relation Quintuples Dataset (SCRQD) is a comprehensive dataset designed specifically for the analysis of subjective comparative questions in the smartphone domain. Distinguished by its detailed structure, the SCRQD dataset is instrumental in advancing the field of Automatic Subjective Question Answering (ASQA) systems.
 
 
 ## Overview of the SCRQD Dataset
@@ -17,7 +17,7 @@ Together, these tables provide a granular view of question subjectivity, making 
 
 
 ## Main Classification Task in SCRQD
-SCRQD focuses on the extraction of Subjective Comparative Relation Quintuples from each question, encompassing:
+The primary task within SCRQD is the extraction and classification of Subjective Comparative Relation Quintuples, encompassing:
 
 - Subject Entity
 - Object Entity
@@ -44,6 +44,15 @@ Here is a glimpse into the structure and content of the SCRQD dataset:
 | Example | Subject Entity | Object Entity | Compared Aspect | Constraint | Preference |
 | ------- | -------------- | ------------- | --------------- | ---------- | ---------- |
 | ...     | ...            | ...           | ...             | ...        | ...        |
+
+
+| Example                                                         | FSQC | Comparison-Form | Subjectivity | Subjective-Type |ComparisonForm-Subjectivity|
+|-----------------------------------------------------------------|------|-----------------|--------------|-----------------|---------------------------|
+| Which smartphone would you suggest, the Samsung Galaxy Note 10 Plus or the Huawei P30?	| TSS  | Single          | Subjective   | Target          | Single Subjective  |
+| Which one has a more attractive interface, the Samsung Galaxy S21 + or the iPhone 12 Pro Max?	| TCS  | Comparative     | Subjective   | Target          | Comparative Subjective  |
+| How well does the Galaxy Z Flip 2 handle gaming and graphic-intensive apps?| ASS  | Single          | Subjective   | Attitude        | Single Subjective |
+| How does the camera sharpness compare between Honor 10X and Realme 8 Pro+?	| ACS  | Comparative     | Subjective   | Attitude        | Comparative Subjective   |
+| Why might users who seek a smartphone that balances performance and affordability consider the Micromax Selfie 2X?	 | RSS  | Single          | Subjective   | Reason          | Single Subjective         |
 
 ## Benchmarking SCRQD
 SCRQD has been benchmarked against other prominent datasets in the field, demonstrating its superiority in capturing the nuances of subjective comparative questions with its unique structure and comprehensive annotations.
