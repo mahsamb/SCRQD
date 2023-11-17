@@ -3,8 +3,18 @@
 ## Introduction to the SCRQD Dataset
 The Subjective Comparative Relation Quintuples Dataset (SCRQD) is an innovative resource designed for the nuanced analysis of subjective comparative questions in the smartphone domain. SCRQD stands out for its detailed categorization and unique approach to understanding the subtleties of comparative queries, thereby enhancing the capabilities of Automatic Subjective Question Answering (ASQA) systems.
 
-## An Overview of the SCRQD Dataset
-SCRQD is a meticulously curated collection of 1,275 questions, each annotated to unravel the complexities of subjective comparisons. This dataset is renowned for its depth and precision in categorization, providing an invaluable tool for researchers and developers in ASQA.
+
+## Overview of the SCRQD Dataset
+Comprising 1,275 meticulously annotated questions, SCRQD serves as a rich resource for examining the complexities inherent in subjective comparisons. This dataset is unique for its organization into five distinct tables, each focusing on a specific aspect of question analysis:
+
+1. **Questions Table**: This table contains the text of each subjective comparative question.
+2. **Relations Table**: It details the relationships and dynamics between the entities within the questions.
+3. **Element Extraction Table**: This table focuses on extracting and identifying key elements from the questions.
+4. **Entity Role Identification Table**: It categorizes the roles of different entities, defining how they are positioned within each question.
+5. **Comparative Preference Classification Table**: This table classifies the types of preferences expressed in the questions.
+
+Together, these tables provide a granular view of question subjectivity, making SCRQD an invaluable asset for researchers and developers in the ASQA domain.
+
 
 ## Main Classification Task in SCRQD
 SCRQD focuses on the extraction of Subjective Comparative Relation Quintuples from each question, encompassing:
