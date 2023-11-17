@@ -49,7 +49,8 @@ Here is a glimpse into the structure and content of the SCRQD dataset:
 | 102 | Are Lenovo smartphones better than Xiaomi phones , in the same price category , in general in terms of overall performance ? | Lenovo smartphones | overall performance | Xiaomi phones   | in the same price category | B |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | camera | All | for 600 dollar | SB |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | battery life | All | for 600 dollar | SB |
-| 0000 | aaaaaaaaaaaaaaaaaaaa | bbbbb |  | ccccc   | ddddd | eeeee |
+| 0000 | aaaaaaaaaaaaaaaaaaaa | bbbbb | fffff | ccccc   | ddddd | eeeee |
+| 1111 | aaaaaaaaaaaaaaaaaaaa | bbbbb | fffff | ccccc   | ddddd | eeeee |
 
 ## Benchmarking SCRQD
 SCRQD has been benchmarked against other prominent datasets in the field, demonstrating its superiority in capturing the nuances of subjective comparative questions with its unique structure and comprehensive annotations.
