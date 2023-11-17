@@ -34,12 +34,10 @@ The dataset includes several vital subtasks, each contributing to a thorough und
 2. **Entity Role Identification (ERI)**: Categorizing the roles of entities as subjects or objects in the comparative narrative.
 3. **Comparative Preference Classification (CPC)**: Classifying the type of preference expressed in the questions.
 
-## Usage Example and Guide
-For practical applications and detailed examples of utilizing the SCRQD dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository.
-
 
 ## Sample Data from SCRQD
-Here is a glimpse into the structure and content of the SCRQD dataset:
+
+Below is a sample from one of the five tables in the SCRQD dataset to illustrate its structure and content. Please note that this is just a glimpse into one aspect of the dataset:
 
 | ID | Example | Subject Entity | Object Entity | Compared Aspect | Constraint | Preference |
 | -- | ------- | -------------- | ------------- | --------------- | ---------- | ---------- |
@@ -50,6 +48,13 @@ Here is a glimpse into the structure and content of the SCRQD dataset:
 | 219 | What are the major disadvantages of the Samsung note 20 over Samsung note 21 ? | Samsung note 20 | All | Samsung note 21 | major disadvantages | SW |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | camera | All | for 600 dollar | SB |
 | 497 |I am crazy about taking photos . I want to buy the best smartphone with an excellent camera and battery life . Which is the best for 600 dollar ?   | X | battery life | All | for 600 dollar | SB |
+
+
+This sample represents only a fraction of the comprehensive data available within the SCRQD dataset. For an in-depth exploration of data from all five tables and practical applications of the dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository.
+
+
+## Usage Example and Guide
+For practical applications and detailed examples of utilizing the SCRQD dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository. The notebook provides step-by-step guides and examples that demonstrate how to effectively work with and analyze the data from each table in the SCRQD dataset.
 
 
 ## Benchmarking SCRQD
