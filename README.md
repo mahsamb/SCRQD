@@ -53,8 +53,23 @@ Below is a sample from one of the five tables in the SCRQD dataset to illustrate
 This sample represents only a fraction of the comprehensive data available within the SCRQD dataset. For an in-depth exploration of data from all five tables and practical applications of the dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository.
 
 
+
 ## Usage Example and Guide
+
 For practical applications and detailed examples of utilizing the SCRQD dataset, please refer to the [Example Usage Notebook](./ExampleUsage.ipynb) included in this repository. The notebook provides step-by-step guides and examples that demonstrate how to effectively work with and analyze the data from each table in the SCRQD dataset.
+
+Additionally, for a deeper understanding of our proposed model implementations and to see them in action, please explore the following detailed notebooks:
+
+- **STL Model Notebook**: [STL Model for Element Extraction](https://link-to-your-notebook.com/stl-model-notebook) - This notebook provides insights into using the Single Task Learning (STL) model specifically for element extraction tasks within the SCRQD dataset.
+- **MTL Model Notebook**: [MTL Model for Element Extraction](https://link-to-your-notebook.com/mtl-model-notebook) - Explore how our Multi-Task Learning (MTL) model addresses multiple extraction tasks simultaneously.
+- **MTL + Adapter Model Notebook**: [MTL + Adapter Model for Element Extraction](https://link-to-your-notebook.com/mtl-adapter-model-notebook) - This notebook details the enhancements made by incorporating an adapter into the MTL model to further boost performance.
+- **CEI Model Notebook**: [CEI Model for Compared Elements Identification](https://link-to-your-notebook.com/cei-model-notebook) - A comprehensive guide on identifying roles and establishing valid comparative relations within the dataset.
+- **CPC Model Notebook**: [CPC Model for Comparative Preference Classification](https://link-to-your-notebook.com/cpc-model-notebook) - Demonstrates how comparative preferences are classified in our CPC model.
+
+Each specialized notebook is designed to provide an in-depth look at the respective methodologies and their application to the SCRQD dataset.
+
+
+Each notebook provides step-by-step guides and examples that demonstrate how to effectively work with and analyze the data from each table in the SCRQD dataset, tailored to the specific modeling approach.
 
 
 ## Benchmarking SCRQD
