@@ -1,8 +1,12 @@
-# Exploration of the Subjective Comparative Relation Quintuples Dataset (SCRQD)
+# Exploration of the Subjective Comparative Relation Quintuples Dataset (SCRQD) and Model (SCRQE)
+
+In this notebook, we first introduce the Subjective Comparative Relation Quintuples Dataset (SCRQD), followed by a detailed presentation of our model, the Subjective Comparative Relation Quintuple Extraction model (SCRQE). These resources collectively provide a robust framework for analyzing and understanding subjective comparative questions within the smartphone domain.
 
 ## Introduction to the SCRQD Dataset
 The Subjective Comparative Relation Quintuples Dataset (SCRQD) is a comprehensive dataset designed specifically for the analysis of subjective comparative questions in the smartphone domain. Distinguished by its detailed structure, the SCRQD dataset is instrumental in advancing the field of Automatic Subjective Question Answering (ASQA) systems.
 
+## Introduction to the SCRQE Model
+The Subjective Comparative Relation Quintuple Extraction model (SCRQE) represents a significant advancement in natural language processing, designed to extract and classify complex comparative relationships within questions. Utilizing a multi-task learning framework and an advanced transformer architecture, SCRQE accurately identifies and categorizes elements like entities, aspects, and comparative preferences. This model benefits from fine-tuned adaptations using the AdapterHub/roberta-base-pf-qnli adapter, enhancing its specificity for question-answering tasks and making it highly effective in the nuanced understanding and processing of comparative queries.
 
 ## Overview of the SCRQD Dataset
 Comprising 1,275 meticulously annotated questions, SCRQD serves as a rich resource for examining the complexities inherent in subjective comparisons. This dataset is unique for its organization into five distinct tables, each focusing on a specific aspect of question analysis:
