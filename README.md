@@ -60,11 +60,11 @@ For practical applications and detailed examples of utilizing the SCRQD dataset,
 
 Additionally, for a deeper understanding of our proposed model implementations and to see them in action, please explore the following detailed notebooks:
 
-- **STL Model Notebook**: [STL Model for Element Extraction](https://link-to-your-notebook.com/stl-model-notebook) - This notebook provides insights into using the Single Task Learning (STL) model specifically for element extraction tasks within the SCRQD dataset.
-- **MTL Model Notebook**: [MTL Model for Element Extraction](https://link-to-your-notebook.com/mtl-model-notebook) - Explore how our Multi-Task Learning (MTL) model addresses multiple extraction tasks simultaneously.
-- **MTL + Adapter Model Notebook**: [MTL + Adapter Model for Element Extraction](https://link-to-your-notebook.com/mtl-adapter-model-notebook) - This notebook details the enhancements made by incorporating an adapter into the MTL model to further boost performance.
-- **CEI Model Notebook**: [CEI Model for Compared Elements Identification](https://link-to-your-notebook.com/cei-model-notebook) - A comprehensive guide on identifying roles and establishing valid comparative relations within the dataset.
-- **CPC Model Notebook**: [CPC Model for Comparative Preference Classification](https://link-to-your-notebook.com/cpc-model-notebook) - Demonstrates how comparative preferences are classified in our CPC model.
+- **STL Model Notebook**: [STL Model for Element Extraction](./stl-model-notebook.ipynb) - This notebook provides insights into using the Single Task Learning (STL) model specifically for element extraction tasks within the SCRQD dataset.
+- **MTL Model Notebook**: [MTL Model for Element Extraction](./mtl-model-notebook.ipynb) - Explore how our Multi-Task Learning (MTL) model addresses multiple extraction tasks simultaneously.
+- **MTL + Adapter Model Notebook**: [MTL + Adapter Model for Element Extraction](./mtl-adapter-model-notebook.ipynb) - This notebook details the enhancements made by incorporating an adapter into the MTL model to further boost performance.
+- **CEI Model Notebook**: [CEI Model for Compared Elements Identification](./cei-model-notebook.ipynb) - A comprehensive guide on identifying roles and establishing valid comparative relations within the dataset.
+- **CPC Model Notebook**: [CPC Model for Comparative Preference Classification](./cpc-model-notebook.ipynb) - Demonstrates how comparative preferences are classified in our CPC model.
 
 Each specialized notebook is designed to provide an in-depth look at the respective methodologies and their application to the SCRQD dataset.
 
